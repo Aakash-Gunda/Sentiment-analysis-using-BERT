@@ -1,6 +1,6 @@
 # Sentiment-analysis-using-BERT
 
-BERT stands for Bidirectional Encoder Representations from Transformers and it is a state-of-the-art machine learning model used for NLP tasks. We can easily load a pre-trained BERT from the Transformers library. But, make sure you install it since it is not pre-installed in the Google Colab notebook.Now that we covered the basics of BERT and Hugging Face, we can dive into our tutorial. We will do the following operations to train a sentiment analysis model:
+BERT stands for Bidirectional Encoder Representations from Transformers and it is a state-of-the-art machine learning model used for NLP tasks. We can easily load a pre-trained BERT from the Transformers library. But, make sure you install it since it is not pre-installed in the Google Colab notebook.Now that we covered the basics of BERT and Hugging Face, we can dive into this repo. We will do the following operations to train a sentiment analysis model:
 1. Install Transformers library
 2. Load the BERT Classifier and Tokenizer alıng with Input modules;
 3. Download the IMDB Reviews Data and create a processed dataset (this will take several operations;
